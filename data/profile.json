@@ -1,0 +1,77 @@
+{
+  "name": "Daniel Pereira",
+  "photo": "https://avatars.githubusercontent.com/u/96916005?v=4",
+  "job": "Software Developer Full Stack",
+  "location": "São Paulo - SP",
+  "phone": "(16) 98159-7656",
+  "email": "renanjohannsen@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Nodejs",
+        "logo": "https://github.com/daniellimadev/Challenge-js-portfolio/blob/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "Java",
+        "logo": "https://github.com/daniellimadev/Challenge-js-portfolio/blob/main/data/imgs/java.png"
+      },
+      {
+        "name": "Angular",
+        "logo": "https://github.com/daniellimadev/Challenge-js-portfolio/blob/main/data/imgs/angular.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://github.com/daniellimadev/Challenge-js-portfolio/blob/main/data/imgs/react.png"
+      },
+      {
+        "name": "Mongodb",
+        "logo": "https://github.com/daniellimadev/Challenge-js-portfolio/blob/main/data/imgs/mongodb.png"
+      },
+      {
+        "name": "Postgresql",
+        "logo": "https://github.com/daniellimadev/Challenge-js-portfolio/blob/main/data/imgs/postgresql.png"
+      }
+    ],
+    "softSkills": [
+      "Leadership",
+      "Ease of communication<",
+      "Team work",
+      "Flexibility",
+      "Organization"
+    ]
+  },
+  "languages": [
+    "Portuguese Brazil (fluent)",
+    "English (basic)",
+    "Spanish (basic)"
+  ],
+  "portfolio": [
+    {
+      "name": "Website Monitoring in Golang",
+      "url": "https://github.com/daniellimadev/Website-Monitoring-in-Golang",
+      "github": true
+    },
+    {
+      "name": "Kafka from an ecommerce!",
+      "url": "https://github.com/daniellimadev/ecommerce",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Software Developer Full Stack Java | Freelance",
+      "period": "jun 2023 - Current",
+      "description": "Deal with the use of MySQL and PostgreSQL databases, also working with the use of queries depending on the </br> customization desired by the client."
+    },
+    {
+      "name": "Java Software Developer | F1RST Digital Services",
+      "period": "jan 2023 - jun 2023",
+      "description": "Maintenance and creation of spring boot applications, in the support part."
+    },
+    {
+      "name": "IT Developer Front-End | Freelance",
+      "period": "jan 2021 - dez 2022",
+      "description": "Build screens, mockups, landing pages."
+    }
+  ]
+}
